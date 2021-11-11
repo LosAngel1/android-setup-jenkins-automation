@@ -7,6 +7,15 @@
     <TextView
         android:layout_width="0dp"
         android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:background="#250102"
+        android:text="Oaxaca"
+        android:textAlignment="center"
+        android:textColor="#273D22"
+        android:textSize="85sp" />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="#250202"
         android:text="1"
